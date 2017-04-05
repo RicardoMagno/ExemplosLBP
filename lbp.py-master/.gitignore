@@ -1,0 +1,6 @@
+*.pyc
+output.png
+images
+*.swp
+*.json
+*.eps
